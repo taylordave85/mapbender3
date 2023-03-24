@@ -1,6 +1,6 @@
 # Mapbender for Docker
 
-Mapbender docker image from the [YAGA Development-Team](https://yagajs.org)
+Mapbender docker image from the [YAGA Development-Team](https://yagajs.org) forked with newest release
 
 ## Supported tags
 
